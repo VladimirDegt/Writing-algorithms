@@ -17,6 +17,7 @@ def insertion_sort(arr):
         arr[j + 1] = current_element;
     return arr
 
-list_numbers = [5, 3, 8, 4, 2];
+not_sort_array = [5, 3, 8, 4, 2];
 
-print(insertion_sort(list_numbers))
+print('not_sort_array-->', not_sort_array)
+print('sort_array-->', insertion_sort(not_sort_array))
