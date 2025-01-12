@@ -17,5 +17,4 @@ def quick_sort(arr):
 
 not_sort_array = [5, 3, 8, 4, 2]
 
-print('not_sort_array-->', not_sort_array)
-print('sort_array-->', quick_sort(not_sort_array))
+quick_sort(not_sort_array)

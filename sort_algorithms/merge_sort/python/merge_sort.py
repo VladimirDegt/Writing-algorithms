@@ -54,5 +54,4 @@ def merge(left, right):
 
 not_sort_array = [5, 3, 8, 4, 2]
 
-print('not_sort_array-->', not_sort_array)
-print('sort_array-->', merge_sort(not_sort_array))
+merge_sort(not_sort_array)
