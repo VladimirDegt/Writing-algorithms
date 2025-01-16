@@ -1,15 +1,23 @@
-# Sorting Algorithms
+# Sorting and Searching Algorithms
 
 ## Description
-This project demonstrates various sorting algorithms implemented in both Python and JavaScript. The algorithms include Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort, and Shell Sort.
+This project demonstrates various sorting and searching algorithms implemented in both Python and JavaScript. The algorithms include Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort, and Shell Sort.
 
-## Features
+## Sort Algorithms
 - Bubble Sort
 - Insertion Sort
 - Merge Sort
 - Quick Sort
 - Selection Sort
 - Shell Sort
+
+## Search Algorithms
+- Linear Search
+- Binary Search
+- Hash Table
+- Boyer-Moore Algorithm
+- Knuth-Morris-Pratt Algorithm
+- Rabin-Karp Algorithm
 
 ## Installation
 
